@@ -13,4 +13,8 @@ public class Cat extends Animal{
     public String makeSound() {
         return "meow";
     }
+
+    public void jump(){
+        //do something
+    }
 }
